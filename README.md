@@ -25,6 +25,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-ffc131?style=for-the-badge&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-2e2459?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
