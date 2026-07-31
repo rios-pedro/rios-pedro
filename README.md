@@ -1,5 +1,4 @@
-<details open>
-<summary>🇺🇸 English</summary>
+
 
 # Hi, I'm Pedro Rios 👋
 
@@ -7,32 +6,14 @@
 
 ## 🧠 About Me
 
-- 💻 Passionate about audiovisual, technology, and always experimenting with new ideas — I love creating things from scratch.
+- 💻 Passionate about audiovisual, technology, and always experimenting with new ideas. I love creating things from scratch.
 - 🔭 Currently studying Java and Spring Boot, integrating APIs and exploring fullstack development to push my limits.
 - 🌱 Always diving deeper into backend concepts: architecture, databases, clean code, and design patterns.
 - ⚡ Fun fact: I sometimes code while listening to video game soundtracks 😄
 
-</details>
 
 ---
 
-<details>
-<summary>🇧🇷 Português</summary>
-
-# Olá, eu sou Pedro Rios 👋
-
-🎯 **Objetivo**: Conquistar minha primeira vaga como **Desenvolvedor Backend**, construindo APIs e sistemas robustos, escaláveis e bem projetados com Java.
-
-## 🧠 Sobre Mim
-
-- 💻 Apaixonado por audiovisual, tecnologia e por experimentar ideias novas — adoro criar coisas do zero.
-- 🔭 Atualmente estudando Java e Spring Boot, integrando APIs e explorando desenvolvimento fullstack para me desafiar.
-- 🌱 Sempre me aprofundando em conceitos de backend: arquitetura, bancos de dados, clean code e design patterns.
-- ⚡ Curiosidade: às vezes programo ouvindo trilhas sonoras de jogos 😄
-
-</details>
-
----
 
 ## 🚀 Technologies & Tools / Tecnologias & Ferramentas
 
