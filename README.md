@@ -33,6 +33,7 @@
 ## 📫 Contact / Contato
 
 <div>
+  <a href="https://pedroriosdev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.instagram.com/predu_hr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:pedrohr1507@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-r-santos-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
